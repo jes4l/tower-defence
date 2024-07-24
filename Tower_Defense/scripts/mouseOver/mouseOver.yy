@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"mouseOver",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"mouseOver",
+  "parent":{
+    "name":"Default",
+    "path":"folders/Scripts/Default.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

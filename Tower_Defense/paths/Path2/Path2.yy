@@ -1,0 +1,28 @@
+{
+  "$GMPath":"",
+  "%Name":"Path2",
+  "closed":false,
+  "kind":0,
+  "name":"Path2",
+  "parent":{
+    "name":"Tower_Defense",
+    "path":"Tower_Defense.yyp",
+  },
+  "points":[
+    {"speed":100.0,"x":528.0,"y":-24.0,},
+    {"speed":100.0,"x":528.0,"y":80.0,},
+    {"speed":100.0,"x":48.0,"y":80.0,},
+    {"speed":100.0,"x":48.0,"y":432.0,},
+    {"speed":100.0,"x":176.0,"y":432.0,},
+    {"speed":100.0,"x":176.0,"y":208.0,},
+    {"speed":100.0,"x":464.0,"y":208.0,},
+    {"speed":100.0,"x":464.0,"y":336.0,},
+    {"speed":100.0,"x":272.0,"y":336.0,},
+    {"speed":100.0,"x":272.0,"y":432.0,},
+    {"speed":100.0,"x":560.0,"y":432.0,},
+    {"speed":100.0,"x":560.0,"y":528.0,},
+  ],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}
